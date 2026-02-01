@@ -38,6 +38,17 @@
 "IT0005559817.MOT","Bot Zc Ag24 A Eur","borsaitaliana"
 "IT0005582421.MOT","Btp Fx 4.15% Oct39 Eur","borsaitaliana"
 
+"IT0005083057.MOT","Btp Tf 3,25% St46 Eur","borsaitaliana"
+"IT0005619546.MOT","Btp Fx 3.15% Nov31 Eur","borsaitaliana"
+"IT0005611741.MOT","Btp Fx 4.3% Oct54 Eur","borsaitaliana"
+"IT0005631608.MOT","Btp Green Fx 4.1% Apr46 Eur","borsaitaliana"
+"IT0005377152.MOT","Btp Tf 3,1% Mz40 Eur","borsaitaliana"
+"IT0005648255.MOT","Btp Italia Jun32 Eur","borsaitaliana"
+
+
+
+
+
 # Bond
 
 "AT0000A2VB47.MOT","Austria Tf 0% Ot28 Eur","borsaitaliana"
@@ -74,6 +85,9 @@
 "XS2689917198.MCW.I09569","IS EP CP EURIBOR 3M .02 311028","borsaitaliana"
 "XS2767495521.MCW.I09951","IS BON CAP EURO STOXX 5063.106 60 280329","borsaitaliana"
 "XS2982333986.MCW.I10714","IS BON CAP UNICREDIT 51.33 60 280229","borsaitaliana"
+
+"XS2837717250.MOT","Isp Sc Jun36 Usd","borsaitaliana"
+"XS2837717417.MOT","Isp Sc Jun27 Usd","borsaitaliana"
 
 ###################
 # Fondi pensione
